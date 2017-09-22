@@ -1,1 +1,0 @@
-# Welcome to cy-org-docs-reference!
