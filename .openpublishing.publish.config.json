@@ -72,7 +72,8 @@
           "_dependentPackages/ECMA2Yaml/tools/PostBuild.ps1"
         ]
       },
-      "pdf_build_exclude_tocs": []
+      "pdf_build_exclude_tocs": [],
+      "filemap_share_depots": ["MSDN.cy-org-docs-conceputal"]
     }
   ],
   "notification_subscribers": [],
