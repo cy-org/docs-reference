@@ -1,6 +1,5 @@
 {
   "build": {
-    "customLinkResolver": "CustomizeHrefForFileMap",
     "markdownEngineName": "dfm-latest",
     "content": [
       {
